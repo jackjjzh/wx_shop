@@ -15,7 +15,7 @@ import org.springframework.stereotype.Component;
  *
  * @author lipengjun
  * @email 939961241@qq.com
- * @gitee https://gitee.com/fuyang_lipengjun/platform
+ * @gitee https://gitee.com/fuyang_lipengjun/platform111
  * @date 2016年11月30日 下午1:34:24
  */
 @Component("testTask")
